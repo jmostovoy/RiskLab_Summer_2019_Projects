@@ -4,7 +4,7 @@ Hello, welcome to a consolidated page for background reading on each of RiskLab'
 
 ## Generalizing the Market Crisis & the 1/N Asset-Allocation Paper - Classical Finance Approach
 
-1. The document entitled “original” is the Professor Seco's original paper we want to generalize. There’s several different possibilities for how one can generalize the paper. 
+1. The document entitled “original” is Professor Seco's original paper we want to generalize. There’s several different possibilities for how one can generalize the paper. 
 2. One approach that has been quite successful here at RiskLab has been using PCA or generalizations of PCA Analysis to uncover inter-dependencies as both a portfolio optimization and as a metric for switching between optimal portfolios. The other two documents explain this possible generalization.
 
 ## Mathematical Theory of Exotic, Volatile, & Fragmented Markets - Inspired by Crypto 
