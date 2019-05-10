@@ -1,6 +1,6 @@
 # RiskLab Summer 2019 Projects
 
-Hello, welcome to a consolidated page background reading on each of RiskLab's 2019 Summer research projects.
+Hello, welcome to a consolidated page for background reading on each of RiskLab's 2019 Summer research projects.
 
 ## Generalizing the Market Crisis & the 1/N Asset-Allocation Paper - Classical Finance Approach
 
