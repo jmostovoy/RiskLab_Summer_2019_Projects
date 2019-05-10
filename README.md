@@ -20,7 +20,7 @@ If possible, I’d say the critical ideas to understand are: What are options in
 
 ## Cross-Currency Optimal Hedging
 
-1. Each document explains the problem at hand and some of the critical things to consider. (Please download the docuemnts as html and open in the browser of your choice.)
+1. Each document explains the problem at hand and some of the critical things to consider. (Please download the documents as html and open in the browser of your choice.)
 
 ## Financial Embeddings
 
